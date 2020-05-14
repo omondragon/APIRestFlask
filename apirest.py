@@ -14,9 +14,9 @@ books = [
     },
     {
         'id': 2,
-        'title': '1984',
+        'title': 'El coronel no tiene quien le escriba',
         'description': 'Interesting', 
-        'author': 'George Orwell'
+        'author': 'Gabo'
     }
 ]
 
